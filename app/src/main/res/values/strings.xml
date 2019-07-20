@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AdsProject</string>
+
+    <string name="app_id_video">ca-app-pub-7920815986886474~3483031434</string>
+    <string name="ad_unit_id_video">ca-app-pub-7920815986886474/6784841602</string>
+
+</resources>
